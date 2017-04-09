@@ -10,7 +10,7 @@ Feel free to write in this file and mess it up - that's why it's here!
 ## First, the concrete stuff.
 
 `index.html` will be your home page HTML file. Write your HTML there.
-`style.css` is your main CSS stylesheet. Write your CSS there.
+`css/style.css` is your main CSS stylesheet. Write your CSS there.
 `assets` is a blank folder for your assets, such as images or fonts you may wish to include. Put your assets here, and figure out how to link them.
 
 That's all! Use the Project Prompt and the rest of this guide for tips with the project!
